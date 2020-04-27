@@ -703,7 +703,7 @@ footer .svg-icon em {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
-  grid-row-gap: 50px;
+  grid-row-gap: 10px;
 }
 @media screen and (max-width: 800px) {
   .grid-container {
@@ -712,7 +712,7 @@ footer .svg-icon em {
 }
 
 .grid-item {
-  width: 250px;
+  width: 200px;
   display: grid;
 }
 
