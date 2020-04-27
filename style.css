@@ -712,7 +712,7 @@ footer .svg-icon em {
 }
 
 .grid-item {
-  width: min-content;
+  width: 250px;
   display: grid;
 }
 
