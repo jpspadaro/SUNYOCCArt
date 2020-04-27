@@ -410,14 +410,14 @@ img {
 
 nav {
   display: block;
-  margin-top: 23px;
+  margin-top: 0px;
   font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
   font-weight: 500;
   font-size: 18px;
 }
 @media screen and (max-width: 1200px) {
   nav {
-    margin-top: 9px;
+    margin-top: 0px;
     font-size: 16px;
   }
 }
