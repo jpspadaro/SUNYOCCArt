@@ -705,6 +705,10 @@ footer .svg-icon em {
   grid-row-gap: 50px;
 }
 
+.grid-item {
+  width: min-content;
+}
+
 pre, code {
   font-family: "Menlo", "Courier New", "Monaco", "Spoqa Han Sans", monospace;
 }
