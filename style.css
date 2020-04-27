@@ -371,13 +371,11 @@ img {
 .site-info .site-avatar {
   margin: 0 auto;
   display: block;
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 100%;
 }
 @media screen and (max-width: 1200px) {
   .site-info .site-avatar {
-    max-width: 120px;
-    max-height: 120px;
+    max-width: 100%;
   }
 }
 .site-info .site-avatar img {
