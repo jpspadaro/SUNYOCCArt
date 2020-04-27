@@ -704,6 +704,7 @@ footer .svg-icon em {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-row-gap: 10px;
+  grid-column-gap: 2px;
 }
 @media screen and (max-width: 800px) {
   .grid-container {
