@@ -707,6 +707,7 @@ footer .svg-icon em {
 
 .grid-item {
   width: min-content;
+  display: grid;
 }
 
 pre, code {
