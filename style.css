@@ -700,6 +700,11 @@ footer .svg-icon em {
   left: 0;
 }
 
+.grid-container {
+  display: grid;
+  grid-row-gap: 50px;
+}
+
 pre, code {
   font-family: "Menlo", "Courier New", "Monaco", "Spoqa Han Sans", monospace;
 }
