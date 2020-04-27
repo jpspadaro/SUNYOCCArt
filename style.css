@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 16px;
   padding: 0;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   h1, h2, h3, h4, h5, h6 {
     line-height: 1.6em;
   }
@@ -215,7 +215,7 @@ dt {
   font-weight: bold;
   margin-bottom: 0.4em;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   dt {
     width: 120px;
   }
@@ -225,7 +225,7 @@ dd {
   margin-left: 200px;
   margin-bottom: 0.4em;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   dd {
     margin-left: 140px;
   }
@@ -337,7 +337,7 @@ img {
   z-index: 4;
   border-right: 1px solid #f1f3f5;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .wrapper-sidebar {
     width: 100%;
     height: auto;
@@ -351,7 +351,7 @@ img {
 .sidebar {
   padding: 0px 0;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .sidebar {
     text-align: center;
   }
@@ -361,7 +361,7 @@ img {
   text-align: center;
   margin: 0px auto 0;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .site-info {
     float: none;
     display: block;
@@ -373,7 +373,7 @@ img {
   display: block;
   max-width: 100%;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .site-info .site-avatar {
     max-width: 100%;
   }
@@ -398,7 +398,7 @@ img {
   color: #868e96;
   font-size: 16px;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .site-description {
     margin: 10px auto;
   }
@@ -415,7 +415,7 @@ nav {
   font-weight: 500;
   font-size: 18px;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   nav {
     margin-top: 0px;
     font-size: 16px;
@@ -427,7 +427,7 @@ nav a {
   font-weight: 300;
   letter-spacing: 1px;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   nav a {
     margin: 0 10px;
     color: #099268;
@@ -438,7 +438,7 @@ nav a {
   float: right;
   width: 70%;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .wrapper-content {
     float: none;
     width: 100%;
@@ -530,7 +530,7 @@ nav a {
 .toc li:before {
   content: "";
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .toc {
     display: none;
   }
@@ -548,7 +548,7 @@ nav a {
   width: 100%;
   display: inline-block;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .pagination {
     font-size: 14px;
     padding: 24px 0;
@@ -643,7 +643,7 @@ nav a {
   width: 100%;
   bottom: 0;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .wrapper-footer-desktop {
     display: none;
   }
@@ -652,7 +652,7 @@ nav a {
 .wrapper-footer-mobile {
   display: none;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
   .wrapper-footer-mobile {
     display: block;
     width: 100%;
