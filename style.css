@@ -284,6 +284,7 @@ a.footnote:hover, .post p a.footnote:hover, .post ol a.footnote:hover, .post ul 
 img {
   display: block;
   max-width: 100%;
+  max-height: 800px;
   margin: 0 0 1em;
   border-radius: 5px;
 }
