@@ -408,6 +408,7 @@ img {
 .navlist {
   text-align: center;
   width: 100%;
+  padding: 5px;
 }
 
 nav {
