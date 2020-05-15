@@ -373,7 +373,6 @@ img {
   margin: 0 auto;
   display: block;
   max-width: 100%;
-  max-height: 50%;
 }
 @media screen and (max-width: 800px) {
   .site-info .site-avatar {
@@ -383,6 +382,7 @@ img {
 .site-info .site-avatar img {
   display: inline-block;
   border-radius: 0px;
+  max-height: 300px;
 }
 
 .site-name {
