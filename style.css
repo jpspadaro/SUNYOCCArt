@@ -382,8 +382,8 @@ img {
 }
 .site-info .site-avatar img {
   display: inline-block;
-  float: left;
   border-radius: 0px;
+  margin-left: 0px;
 }
 
 .site-name {
