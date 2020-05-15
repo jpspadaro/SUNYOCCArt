@@ -65,7 +65,7 @@ html {
 }
 
 body {
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #343a40;
   line-height: 1.7em;
 }
@@ -388,7 +388,7 @@ img {
   margin: 0 auto;
   color: #343a40;
   cursor: pointer;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
@@ -414,7 +414,7 @@ img {
 nav {
   display: block;
   margin-top: 0px;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: 500;
   font-size: 18px;
 }
@@ -1062,7 +1062,7 @@ pre.highlight {
 }
 .markdown-body {
   color: #343a40;
-  font-family: "Noto Serif", "PT Serif", source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", SimSon, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   word-wrap: break-word;
