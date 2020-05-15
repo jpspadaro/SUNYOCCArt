@@ -382,6 +382,7 @@ img {
 }
 .site-info .site-avatar img {
   display: inline-block;
+  float: left;
   border-radius: 0px;
 }
 
