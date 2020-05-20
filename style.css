@@ -514,6 +514,10 @@ nav a {
   font-size: 15px;
 }
 
+.entry img {
+  margin: 0 auto;
+}
+
 .toc {
   width: 240px;
   height: 100%;
