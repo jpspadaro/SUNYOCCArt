@@ -385,7 +385,7 @@ img {
 }
 
 .site-info .site-avatar {
-  margin: 0 auto;
+  margin: 10 auto;
   display: block;
   max-width: 100%;
   max-height: 450px;
